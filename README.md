@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on some small projects, to improve and develop my codding
+🔭 I’m currently working on an enzyme design project.
 
-🌱 I’m currently learning Bioinformatics, statistics and Data Science
+🌱 I’m currently learning Bioinformatics.
 
-🤔 I’m looking for help with every feedback possible
-
-💬 Ask me about everything regarding Biology, Chemistry, LifeSciences
+💬 Open to discuss everything regarding Biology, Chemistry, LifeSciences
 
 📫 How to reach me: https://www.facebook.com/victor.baerle.1
+
 
 
